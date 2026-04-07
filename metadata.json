@@ -1,0 +1,5 @@
+{
+  "name": "Cafe Lumière",
+  "description": "A cozy cafe website featuring our menu and location.",
+  "requestFramePermissions": ["geolocation"]
+}
